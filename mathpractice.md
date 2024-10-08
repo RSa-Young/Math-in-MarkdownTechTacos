@@ -33,5 +33,32 @@ p_3
 \end{bmatrix}
 $$
 
+This is a system of equations:
 
+$$
+\begin{align}
+3x +2y &= 5 \\
+x^2 - 2x &= 18
+\end{align}
+$$
 
+$$
+f(x) = \begin{cases}
+x^2 - 30x^\frac{1}{2} &\text{ if }  x \geq 0 \\
+x^\frac{3}{2} - x^2 &\text{ if } x \leq 0
+\end{cases}
+$$
+
+# The Cobb-Douglas Production Function
+
+$$Y(L,K)=AL^\beta K^\alpha$$
+
+The Cobb-Douglas Production Formula in economics represents the relationship between two or more inputs. This is especially used for physical capital and labor. The output is the maximum number of outputs that can be produced with these inputs.
+The variables are as defined:
+- $Y$ is the total output in a year
+- $L$ is the labor output in a year
+- $K$ is the capital output in a year
+- $A$ is the total factor productivity or the ratio of aggregate output and aggregate input
+- $\beta$ is the elasticity of labor
+- $\alpha$ is the elasticity of capital
+- N.B: both $\beta$ & $\alpha$ are both $0 \leq x \geq 1$
